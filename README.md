@@ -39,7 +39,7 @@ To identify the popular travel destinations throughout the year and produce a da
 
 ## 🎥 Dashboard Demonstration
 
-[![View Dashboard Demonstration](https://drive.google.com/file/d/1ewcsyoBBKHoecxmz_Ak1iV2_eSU9q0AS/view?usp=sharing)](https://drive.google.com/file/d/1cGSeEW-58HDkrPArG_Azob-opCeWy2Kd/view?usp=sharing)
+![Dashboard 2](https://github.com/user-attachments/assets/13fd5927-180b-40b1-89fc-228362334c69)
 
 👉 **[Click here to watch the dashboard walkthrough](https://drive.google.com/file/d/1cGSeEW-58HDkrPArG_Azob-opCeWy2Kd/view?usp=sharing)**
 
