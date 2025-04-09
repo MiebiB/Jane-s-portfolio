@@ -37,7 +37,12 @@ To identify the popular travel destinations throughout the year and produce a da
 
 ## 📊 Dashboard
 
-[![View Dashboard Demonstration](https://drive.google.com/file/d/1cGSeEW-58HDkrPArG_Azob-opCeWy2Kd/view?usp=sharing)
+## 🎥 Dashboard Demonstration
+
+[![View Dashboard Demonstration](https://drive.google.com/file/d/1ewcsyoBBKHoecxmz_Ak1iV2_eSU9q0AS/view?usp=sharing)](https://drive.google.com/file/d/1cGSeEW-58HDkrPArG_Azob-opCeWy2Kd/view?usp=sharing)
+
+👉 **[Click here to watch the dashboard walkthrough](https://drive.google.com/file/d/1cGSeEW-58HDkrPArG_Azob-opCeWy2Kd/view?usp=sharing)**
+
 
 An interactive Tableau dashboard was developed to support decision-making by showing:
 
