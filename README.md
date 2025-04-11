@@ -16,6 +16,7 @@ To identify the popular travel destinations throughout the year and produce a da
 
 ---
 
+
 ## 📌 Questions (KPIs)
 - What are the trends in country visits from 2022 and 2024?
 - What is the peak travel season for each country or city?
@@ -36,6 +37,8 @@ To identify the popular travel destinations throughout the year and produce a da
 ---
 
 ## 📊 Dashboard
+
+![Dashboard 2](https://github.com/user-attachments/assets/240b959d-9cb3-4504-ab33-92b09ed8aaec)
 
 ![Dashboard 2](https://github.com/user-attachments/assets/13fd5927-180b-40b1-89fc-228362334c69)
 
